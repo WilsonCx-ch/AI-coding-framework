@@ -1,6 +1,6 @@
 {
   "name": "create-ai-coding-framework",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Scaffold for AI Coding: choose editor (Cursor/Claude/OpenCode/Trae) and AI assistant options (OpenSpec, MCP, .agents level)",
   "license": "MIT",
   "bin": {
